@@ -1,6 +1,7 @@
 # Web-HW
 
 I created a for the analysis of weather in different cities of the world across the globe.
+
 [Darya Roshan - Weather Analysis Visualization.Web](/html/index.html)
 
 My visualization dashboard website is an analysis and visualization of weather of 700+ cities across the world. It showcase the relationship of various factors like temperature, humidity, cloudiness and wind speed with respect to the distance from the equator. 
