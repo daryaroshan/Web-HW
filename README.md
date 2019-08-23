@@ -1,9 +1,9 @@
 # Web-HW
 
-Created a visualization dashboard website for the analysis of weather in different cities of the world across the globe.
-[Daryaabs.Web](/html/index.html)
+I created a for the analysis of weather in different cities of the world across the globe.
+[Darya Roshan - Weather Analysis Visualization.Web](/html/index.html)
 
-This is an analysis and visualization of weather of 700+ cities across the world. The main objective was to showcase the relationship of various factors like temperature, humidity, cloudiness and wind speed with respect to the distance from the equator. 
+My visualization dashboard website is an analysis and visualization of weather of 700+ cities across the world. It showcase the relationship of various factors like temperature, humidity, cloudiness and wind speed with respect to the distance from the equator. 
 
 For this analysis, approx. 2000 coordinate pairs of latitude and longitude were created randomly and then citypy (a python library) was used to generate city names for respective coordinates.
 
